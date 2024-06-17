@@ -62,10 +62,10 @@ Standardizing measurement variables
 FI used the data dictionary to identify measurement variables. FI assured each value was represented based on either SNOMED standards or the Observational Medical Outcomes Partnership Common Data Model since this is NIDDK-CDR’s reported Common Data Model (CDM). FI also identified disparate measurement units by creating histograms of numeric data types. If the numeric data type values all have the same unit of measurement, the resulting histogram had a single curve. However, if the histogram had two curves, this suggested multiple units of measurement. FI identified and harmonized the following variable measurement units.
 
 Converted variable: to standard measurement pairs.
-• Height: cm
-• Weight: kg
-• Glucose results: mg/dl
-• Hbg: mg/dl
+* Height: cm
+* Weight: kg
+* Glucose results: mg/dl
+* Hbg: mg/dl
 
 Handling Errant Values
 
