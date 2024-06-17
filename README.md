@@ -1,5 +1,7 @@
 # Intermediate/Advanced-Level Challenge: Aggregating and Harmonizing TrialNet Data
-This repository contains the scripts used to generate the AI-ready dataset for the Intermediate/Advanced-level Data Centric Challenge using data from four studies within the Type 1 Diabetes TrialNet (TrialNet) network. Participants were instructed to 1) prepare a single raw dataset by aggregating all data files associated with one or more longitudinal studies on T1D listed below, and 2) augment the single dataset to ensure AI-readiness:
+This repository contains the scripts used to generate the AI-ready dataset for the Intermediate/Advanced-level Data Centric Challenge using data from four studies within the Type 1 Diabetes TrialNet (TrialNet) network. 
+
+Participants were instructed to 1) prepare a single raw dataset by aggregating all data files associated with one or more longitudinal studies on T1D listed below, and 2) augment the single dataset to ensure AI-readiness:
 * TN01 (Pathway to Prevention),
 * TN16 (Long-Term Investigative Follow-Up),
 * TN19 (ATG-GSCF in New Onset T1D), and
