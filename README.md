@@ -1,11 +1,10 @@
 # Intermediate/Advanced-Level Challenge: Aggregating and Harmonizing TrialNet Data
-This repository contains the scripts used to generate the AI-ready dataset for the Intermediate/Advanced-level Data Centric Challenge using data from four studies within the Type 1 Diabetes TrialNet (TrialNet) network, including:
+This repository contains the scripts used to generate the AI-ready dataset for the Intermediate/Advanced-level Data Centric Challenge using data from four studies within the Type 1 Diabetes TrialNet (TrialNet) network. Participants were instructed to 1) prepare a single raw dataset by aggregating all data files associated with one or more longitudinal studies on T1D listed below, and 2) augment the single dataset to ensure AI-readiness:
 * TN01 (Pathway to Prevention),
 * TN16 (Long-Term Investigative Follow-Up),
 * TN19 (ATG-GSCF in New Onset T1D), and
 * TN20 (Immune Effects of Oral Insulin in Relatives at Risk for Type 1 Diabetes Mellitus)
 
-Participants were instructed to 1) prepare a single dataset by aggregating all data files associated with one or more longitudinal studies on T1D listed above, and 2) augment the single dataset to ensure AI-readiness.
 
 FI Consulting, led by Dr. Alice Loveys, successfully consolidated and unified multiple TrialNet datasets and identified data outliers. The team enhanced raw data to ensure consistent variable representation and identified numeric and categorical “missingness” to prevent modeling bias, thus enhancing TrialNet data for AI-readiness. The team prepared a dataset for time-series analysis, making the data more likely to inform prevention and personalized treatment plans for those at risk of diabetes and diabetes-related complications. FI Consulting selected the prize to present their challenge results at the NIH Office of Data Science Strategy (ODSS) Data Sharing and Reuse Seminar Series. The recording from the May 10, 2024 presentation is available [HERE](https://www.youtube.com/watch?v=CrABW02QB30).
 
